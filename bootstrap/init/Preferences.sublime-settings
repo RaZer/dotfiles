@@ -1,0 +1,50 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"draw_white_space": "all",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".DS_Store",
+		".Trashes",
+		".Spotlight-V100",
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"doc",
+		"log",
+		"tmp",
+		"coverage",
+		"bin",
+		"script"
+	],
+	"font_face": "Monaco",
+	"font_size": 14,
+	"git_gutter_live_mode": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"line_padding_bottom": 2,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"remember_open_files": false,
+	"rulers":
+	[
+		80,
+		100
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"show_full_path": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true
+}
