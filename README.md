@@ -1,5 +1,11 @@
 # README
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/techery/dotfiles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+## Credits
+A lot of things were inspired by and stolen from these awesome dotfile repos
 
+<https://github.com/holman/dotfiles>
+
+<https://github.com/cowboy/dotfiles> 
+
+<https://github.com/mathiasbynens/dotfiles>

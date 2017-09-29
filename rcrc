@@ -1,4 +1,0 @@
-DOTFILES_DIRS="$HOME/.dotfiles"
-EXCLUDES="local README.md"
-COPY_ALWAYS="ssh/config"
-SYMLINK_DIRS="zprezto"

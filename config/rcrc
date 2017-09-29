@@ -1,0 +1,5 @@
+DOTFILES_BASE="$HOME/.dotfiles"
+DOTFILES_DIRS="$DOTFILES_BASE/config/** $DOTFILES_BASE/vendor"
+EXCLUDES=""
+COPY_ALWAYS="ssh/config"
+SYMLINK_DIRS="vendor:*"
