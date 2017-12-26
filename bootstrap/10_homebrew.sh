@@ -8,6 +8,7 @@ sudo -v
 # Keep-alive: update existing `sudo` time stamp until the script has finished.
 while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
 
+# TODO: Fix permission setting error
 # Setgid on /usr/local
 sudo chmod g+s /usr/local
 

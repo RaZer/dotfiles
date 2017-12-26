@@ -35,6 +35,7 @@ echo "Updating Homebrew..."
 brew update
 brew upgrade
 
+brew_install 'mas'
 brew_install 'vim' '--override-system-vi'
 brew_install 'git'
 brew_install 'tmux'

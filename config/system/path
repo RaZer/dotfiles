@@ -1,1 +1,2 @@
 export PATH=$HOME/.bin:$(brew --prefix)/bin:$(brew --prefix)/sbin:$PATH
+export PATH=/usr/local/opt/postgresql@9.6/bin:$PATH
