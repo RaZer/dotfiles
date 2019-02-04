@@ -62,6 +62,7 @@ brew install 'homebrew/dupes/grep'
 
 
 # Other
+brew_install 'direnv'
 brew_install 'wget' '--with-iri'
 brew_install 'ack'
 brew_install 'rename'

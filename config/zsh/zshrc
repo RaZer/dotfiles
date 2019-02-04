@@ -9,3 +9,6 @@ if [[ -s "${ZDOTDIR:-$HOME}/.dotfiles/vendor/zprezto/init.zsh" ]]; then
   source "${ZDOTDIR:-$HOME}/.dotfiles/vendor/zprezto/init.zsh"
 fi
 
+# Load direnv
+eval "$(direnv hook zsh)"
+
