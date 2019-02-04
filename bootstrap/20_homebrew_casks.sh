@@ -1,7 +1,11 @@
 #!/usr/bin/env sh
 
 CASKROOM_PATH="$(brew --prefix)/Caskroom"
-export HOMEBREW_CASK_OPTS="--appdir=/Applications --caskroom=$CASKROOM_PATH --fontdir=/Library/Fonts"
+export HOMEBREW_CASK_OPTS="--appdir=/Applications --fontdir=/Library/Fonts"
+
+# TODO: Sort these casks
+brew cask install tunnelblick
+brew cask install station
 
 brew cask install appcleaner
 brew cask install dash
@@ -17,6 +21,9 @@ brew cask install spectacle
 brew cask install sublime-text
 brew cask install transmission
 brew cask install vlc
+
+# Dev Tools
+brew cask install visual-studio-code
 
 # QuickLook Plugins
 brew cask install qlcolorcode

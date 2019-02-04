@@ -24,3 +24,6 @@
   template = ~/.gitmessage
 [include]
   path = ~/.dotfiles/local/gitconfig
+[user]
+	email = sergey.stupachenko@gmail.com
+	name = Serge Stupachenko

@@ -32,8 +32,8 @@ zstyle ':prezto:load' pmodule \
   'spectrum' \
   'utility' \
   'completion' \
-  'prompt' \
-  'ruby'
+  'ruby' \
+  'prompt'
 
 #
 # Editor
@@ -155,7 +155,7 @@ zstyle ':prezto:module:tmux:auto-start' local 'yes'
 # zstyle ':prezto:module:tmux:auto-start' remote 'yes'
 
 # Integrate with iTerm2.
-# zstyle ':prezto:module:tmux:iterm' integrate 'yes'
+zstyle ':prezto:module:tmux:iterm' integrate 'yes'
 
 # Local config
 [[ -f ~/.dotfiles/local/zpreztorc ]] && source ~/.dotfiles/local/zpreztorc
