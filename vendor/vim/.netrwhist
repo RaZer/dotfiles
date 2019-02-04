@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/ss/dotflies'
+let g:netrw_dirhist_2='/Users/ss/.dotfiles/source'
+let g:netrw_dirhist_3='/Users/ss/.dotfiles/bootstrap'
+let g:netrw_dirhist_4='/Users/ss/.vim'
+let g:netrw_dirhist_5='/Users/ss/.vim/colors'
